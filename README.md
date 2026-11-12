@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student (Specialization in Artificial Intelligence and Machine Learning.
+- 🎓 B.Tech Computer Science & Engineering student (Specialization in Artificial Intelligence and Machine Learning)
 - 💻 Interested in Software Development and Artificial Intelligence.
 - 🌱 Currently strengthening my programming and problem-solving skills.
 - 🧠 Exploring Data Structures, Algorithms, Python and AI/ML.
